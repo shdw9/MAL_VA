@@ -51,7 +51,7 @@ def getAnime(): #grabs all watched anime from profile
         else:
             #print(anime.text.split("\n")[0].split(" ", 1)[1].rstrip())
             watchedanime.append(anime.text.split("\n")[0].split(" ", 1)[1].rstrip())
-    print('Finished grabbing all anime from profile!')
+    print('Finished grabbing ' +  str(len(watchedanime)) + " anime from your MAL profile!")
     getVA()
 
 def getProfile(): #checks if valid profile
