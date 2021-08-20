@@ -13,7 +13,7 @@ init(convert=True)
 
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 options = Options()
-options.headless = True
+#options.headless = True #uncomment this if you want to see the browser doing its work
 options.add_argument("--log-level=3")
 #options.add_argument('--headless')
 options.add_argument('--disable-gpu')
