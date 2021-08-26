@@ -1,4 +1,5 @@
-![cmdline](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fenanimanga%2Fimages%2F7%2F76%2FMyanimelist_logo.png%2Frevision%2Flatest%3Fcb%3D20191121020509&f=1&nofb=1) 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fenanimanga%2Fimages%2F7%2F76%2FMyanimelist_logo.png%2Frevision%2Flatest%3Fcb%3D20191121020509&f=1&nofb=1" width="600" height="102">
+
 
 # Voice Actor Scanner
 
